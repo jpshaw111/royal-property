@@ -1,0 +1,1 @@
+<a href="" class="desktopversion_logo"><img src="{{ URL::asset('admin') }}/images/logo.svg"></a>
